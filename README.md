@@ -2,13 +2,14 @@
 
 **Python & AI Developer | LLM Integration, Backend Systems & AI Automation**
 
-I build Python backend and AI systems that connect language models, APIs, data, and automation workflows, grounded in applied mathematics and mathematical modeling. I am currently in the second year of a Master's program focused on mathematical modeling, applications, and machine learning.
+I build Python backend and AI systems that connect language models, APIs, structured data, reliable data pipelines, and automation workflows, grounded in applied mathematics and mathematical modeling. I am currently in the second year of a Master's program focused on mathematical modeling, applications, and machine learning.
 
 ## Focus
 
 - Python and AI system development
 - LLM and model API integration
 - Backend systems with FastAPI, REST APIs, and asynchronous workflows
+- Data modeling, SQL, structured data processing, and reliable data pipelines
 - AI automation and structured LLM workflows
 - Current development focus: retrieval-augmented generation (RAG), Model Context Protocol (MCP), and AI agent architectures
 - Applied mathematics, mathematical modeling, and machine learning
@@ -29,4 +30,4 @@ My academic path includes a Bachelor's Degree (Licence) in Mathematics and Appli
 
 ## Current Direction
 
-I am developing reliable Python and AI systems that connect language models, APIs, data, and tools through clear, testable workflows. My current direction includes LLM integration, backend systems, AI automation, retrieval-augmented generation, Model Context Protocol, and AI agent architectures.
+I am developing reliable Python and AI systems that connect language models, APIs, structured data, and tools through clear, testable workflows. My current direction includes LLM integration, backend systems, AI automation, retrieval-augmented generation, Model Context Protocol, and AI agent architectures.
