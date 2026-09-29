@@ -1,33 +1,78 @@
 # Mhamed Halhoul
 
-**Python & AI Developer | LLM Integration, Backend Systems & AI Automation**
+**M2 Student — Master’s in Mathematical Modelling, Applied Mathematics and Machine Learning**
 
-I build Python backend and AI systems that connect language models, APIs, structured data, reliable data pipelines, and automation workflows, grounded in applied mathematics and mathematical modeling. I am currently in the second year of a Master's program focused on mathematical modeling, applications, and machine learning.
+I am currently completing the second year (M2) of a Master’s degree in Mathematical Modelling, Applied Mathematics and Machine Learning at Abdelmalek Essaâdi University. I completed M1, and graduation is expected in July 2027.
 
-## Focus
+*The English programme wording above is descriptive for international readers. Official French programme title: « Modélisation, Mathématiques Appliquées et Apprentissage ».*
 
-- Python and AI system development
-- LLM and model API integration
-- Backend systems with FastAPI, REST APIs, and asynchronous workflows
-- Data modeling, SQL, structured data processing, and reliable data pipelines
-- AI automation and structured LLM workflows
-- Current development focus: retrieval-augmented generation (RAG), Model Context Protocol (MCP), and AI agent architectures
-- Applied mathematics, mathematical modeling, and machine learning
+My academic interests are applied mathematics, mathematical modelling, optimization, scientific computing, and machine learning, with the goal of pursuing doctoral study. I use Python as a supporting tool for computation, experimentation, and software integration.
 
-## Selected Projects
+## Education
+
+### Master’s — Abdelmalek Essaâdi University
+
+**Status:** M1 completed · M2 in progress; graduation expected in July 2027.
+
+Course names below are presented in descriptive English for international readability.
+
+#### M1 — Completed coursework
+
+- Probability and Inferential Statistics
+- Markov Chains and Monte Carlo Methods
+- Numerical and Matrix Analysis
+- Functional Analysis and Operator Theory
+- Numerical Methods for PDEs
+- Optimization
+- Dynamical Systems
+- Stochastic Modelling
+- Data Analysis and Data Mining
+
+#### M2 2026–2027 — coursework in progress / scheduled
+
+The following M2 coursework is in progress or scheduled for 2026–2027.
+
+- Machine Learning Theory
+- Deep Learning and Advanced Numerical Software
+- Inverse Problems
+- Calculus of Variations and Optimal Control
+- Deterministic Modelling
+- Adaptive Numerical Methods
+- Metaheuristic Optimization
+
+### Licence d’Études Fondamentales — Sciences Mathématiques et Applications
+
+Université Ibn Zohr, 2015.
+
+## Mathematics Teaching
+
+- **Secondary mathematics teaching:** experience in Moroccan secondary schools began in 2016.
+- **Private mathematics tutoring:** 2009–2011, a separate earlier period.
+
+## Doctoral Direction
+
+I am preparing for doctoral study across applied mathematics, mathematical modelling, optimization, scientific computing, and machine learning.
+
+## Selected Coursework Topics
+
+These entries record topic selection only.
+
+- **Artificial Neural Networks for Learning and Optimization** — Master’s mini-project topic selected within the Metaheuristic Optimization module.
+- **Traitement d’images par des EDP** — presentation topic selected.
+
+## Complementary Technical Skills
+
+- Python for numerical work, structured data, and software prototyping
+- API integration, asynchronous workflows, and FastAPI
+- JSON Schema, validation, and explicit data models
+- Browser and backend integration with HTML, CSS, JavaScript, and WebRTC
+
+## Selected Software Projects
 
 ### [Talk-to-Agent](https://github.com/halhoulmhamed-droid/talk-to-agent)
 
-A local technical demo and portfolio prototype that connects a browser microphone to the Google Gemini Live API through a Python backend and bidirectional WebRTC audio. It demonstrates FastAPI endpoints, FastRTC/WebRTC, asynchronous realtime audio flow, and browser-to-backend AI API integration.
+A local technical demo and portfolio prototype that connects a browser microphone to the Google Gemini Live API through a Python backend and bidirectional WebRTC audio. It is not a production recruitment platform and does not currently upload CVs or job descriptions, create structured reports, display or save transcripts, authenticate users, or provide production-grade multi-user isolation.
 
 ### [Hujja](https://github.com/halhoulmhamed-droid/hujja)
 
-A pre-alpha Python rules-as-code project for auditable Shariah stock screening. The current repository focuses on a versioned DJIM rule definition, JSON Schema, fact modeling, and validation; the loader and screening execution engine are not yet implemented.
-
-## Background
-
-My academic path includes a Bachelor's Degree (Licence) in Mathematics and Applications and current graduate study in mathematical modeling and machine learning. I also bring more than a decade of experience teaching mathematics in Moroccan upper-secondary education, strengthening the analytical foundation behind my progression into Python, AI systems, backend APIs, and automation.
-
-## Current Direction
-
-I am developing reliable Python and AI systems that connect language models, APIs, structured data, and tools through clear, testable workflows. My current direction includes LLM integration, backend systems, AI automation, retrieval-augmented generation, Model Context Protocol, and AI agent architectures.
+A pre-alpha Python rules-as-code project for auditable Shariah stock screening. The current repository focuses on a versioned DJIM rule definition, JSON Schema, fact modeling, and validation; the loader and screening execution engine are not yet implemented. It is informational software, not a fatwa or investment advice.
